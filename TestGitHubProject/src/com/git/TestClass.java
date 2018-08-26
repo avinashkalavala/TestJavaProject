@@ -21,5 +21,6 @@ public class TestClass {
 		int b=30;
 		
 		int c=90;
+		String name="";
 	}
 }
